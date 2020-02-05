@@ -1,5 +1,6 @@
 # vscode的自定义设置
 ### 安装eslint插件、vetur插件，设置的主题为Monokai
+```javascript
 {
     "files.autoSave": "onFocusChange",
     "workbench.colorTheme": "Monokai",
@@ -20,4 +21,5 @@
     },
     // 在方法括号之间插入空格
     "javascript.format.insertSpaceBeforeFunctionParenthesis": true
-}
+}s
+```
