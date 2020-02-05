@@ -21,5 +21,5 @@
     },
     // 在方法括号之间插入空格
     "javascript.format.insertSpaceBeforeFunctionParenthesis": true
-}s
+}
 ```
