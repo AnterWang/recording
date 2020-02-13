@@ -8,7 +8,6 @@
     "workbench.tree.indent": 24,
     "vetur.validation.template": false,
     "vetur.experimental.templateInterpolationService": false,
-    // 取消代码波浪线警告
     "eslint.enable": false,
     "vetur.format.options.tabSize": 4,
     "vetur.format.defaultFormatterOptions": {
@@ -19,7 +18,9 @@
             "singleQuote": true
         }
     },
+    "vetur.format.defaultFormatter.js": "vscode-typescript", // 不默认对JS使用了prettier,(解决js自动换行)
     // 在方法括号之间插入空格
-    "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "explorer.confirmDelete": false
 }
 ```
