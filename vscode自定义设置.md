@@ -1,4 +1,4 @@
-# vscode的自定义设置
+# vscode的自定义设置(个人)
 ### 安装eslint插件、vetur插件，设置的主题为Monokai
 ```javascript
 {
