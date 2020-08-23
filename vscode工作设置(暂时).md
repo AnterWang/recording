@@ -6,6 +6,7 @@
     "workbench.colorTheme": "Monokai",
     "editor.fontSize": 14,
     "workbench.tree.indent": 24,
+    "eslint.enable": false,
     // 添加 vue 支持
     "eslint.validate": [
         "javascript",
